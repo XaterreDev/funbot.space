@@ -1,0 +1,10 @@
+:root {
+	--primary: #000000;
+	--primary-disabled: #000000;
+	--secondary: white;
+	--secondary-disabled: #000000;
+	--third: #9b8ae0;
+	--third-disabled: #9b8ae0;
+	--o1: #00b2c9;
+	--o1-disabled: #008191;
+}
